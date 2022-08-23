@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ranger", "Ranger\Ranger.vcxproj", "{0792DE2F-9FC9-4820-8649-56790D291081}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "Game\Game.vcxproj", "{528CB6CC-70B0-4F70-98E4-6F5C963569AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0792DE2F-9FC9-4820-8649-56790D291081}.Debug|x64.ActiveCfg = Debug|x64
+		{0792DE2F-9FC9-4820-8649-56790D291081}.Debug|x64.Build.0 = Debug|x64
+		{0792DE2F-9FC9-4820-8649-56790D291081}.Release|x64.ActiveCfg = Release|x64
+		{0792DE2F-9FC9-4820-8649-56790D291081}.Release|x64.Build.0 = Release|x64
+		{528CB6CC-70B0-4F70-98E4-6F5C963569AF}.Debug|x64.ActiveCfg = Debug|x64
+		{528CB6CC-70B0-4F70-98E4-6F5C963569AF}.Debug|x64.Build.0 = Debug|x64
+		{528CB6CC-70B0-4F70-98E4-6F5C963569AF}.Release|x64.ActiveCfg = Release|x64
+		{528CB6CC-70B0-4F70-98E4-6F5C963569AF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E332D6FC-1F71-4B47-BD22-C4E175F5CD65}
+	EndGlobalSection
+EndGlobal
