@@ -11,6 +11,8 @@ namespace Ranger
 
 		void Run();
 
+		void OnEvent();
+
 	};
 
 	Application* CreateApplication();

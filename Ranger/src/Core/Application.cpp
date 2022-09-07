@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "Application.h"
 
 namespace Ranger
@@ -15,6 +16,11 @@ namespace Ranger
 	void Application::Run()
 	{
 		while (true);
+	}
+
+	void Application::OnEvent()
+	{
+
 	}
 }
 
